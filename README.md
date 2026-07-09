@@ -12,6 +12,9 @@
   <a href="mailto:petrakisgeorge@icloud.com">
     <img src="https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="cv.pdf">
+    <img src="https://img.shields.io/badge/CV-4B4B4B.svg?style=for-the-badge&logo=Read-The-Docs&logoColor=white" alt="CV" />
+  </a>
 </div>
 
 <br/>

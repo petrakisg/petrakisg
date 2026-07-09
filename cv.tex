@@ -1,0 +1,181 @@
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+% Font options
+\usepackage{mathptmx} % Times New Roman-like font, very professional
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.6in}
+\addtolength{\evensidemargin}{-0.6in}
+\addtolength{\textwidth}{1.2in}
+\addtolength{\topmargin}{-0.8in}
+\addtolength{\textheight}{1.6in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-7pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+%----------HEADING----------
+\begin{center}
+    {\Huge \textbf{George Petrakis}} \\ \vspace{2pt}
+    \small +30 6981889290 $|$ \href{mailto:petrakisgeorge@icloud.com}{petrakisgeorge@icloud.com} $|$ \href{https://linkedin.com/in/petrakisg}{linkedin.com/in/petrakisg} $|$ \href{https://github.com/petrakisg}{github.com/petrakisg} \\
+\end{center}
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {University of Ioannina}{Ioannina, Greece}
+      {BSc in Informatics and Telecommunications}{Sep 2022 -- Jun 2026}
+      \resumeItemListStart
+        \resumeItem{Focused on Software Engineering, Network Architectures, and Cyber Security.}
+      \resumeItemListEnd
+    \resumeSubheading
+      {University of Ioannina}{Ioannina, Greece}
+      {Certificate of Pedagogical and Teaching Competence (Grade: 9.8/10)}{Feb 2024 -- Jun 2026}
+      \resumeItemListStart
+        \resumeItem{Qualified to teach Computer Science in Secondary Education. Conducted an internship at a General High School in Arta, instructing the "GLOSSA" programming language to 11th-grade students.}
+      \resumeItemListEnd
+    \resumeSubheading
+      {5th EPAL of Heraklion}{Heraklion, Crete, Greece}
+      {IT and Networks Technician (GPA: 18.8/20)}{Sep 2019 -- Jun 2022}
+  \resumeSubHeadingListEnd
+
+%-----------EXPERIENCE-----------
+\section{Experience}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {Cybersecurity Engineering Intern}{Mar 2026 -- Apr 2026}
+      {Laboratory of Knowledge and Intelligent Computing KIC (EPIC) - UoI}{Arta, Greece}
+      \resumeItemListStart
+        \resumeItem{\textbf{Access Control System:} Developed a secure Client-Server authentication and age verification system for Metaverse environments (Roblox).}
+        \resumeItem{\textbf{Backend \& Security:} Engineered a robust backend using Node.js, Express, and MongoDB, integrating critical security mechanisms such as NoSQL Injection protection, XSS mitigation, and Rate Limiting.}
+        \resumeItem{\textbf{Identity Management:} Implemented the eIDAS Trust Triangle model to ensure the secure issuance of digital credentials and single-use tokens.}
+        \resumeItem{\textbf{API Integration:} Successfully connected the external authentication system with the virtual game world utilizing secure REST APIs.}
+      \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+%-----------PUBLICATIONS-----------
+\section{Publications}
+  \resumeSubHeadingListStart
+    \resumeSubItem{\textbf{A Local-First Event-Driven Order Management System for Temporary Events} -- \emph{Submitted to IEEE SEEDA 2026 conference.} Co-authored with S. Margariti \& C. Gogos.}
+    \resumeSubItem{\textbf{Security architecture and the protection of minors in the Metaverse} -- \emph{Co-authored during the KIC EPIC Internship (In Preparation / Under Review).}}
+  \resumeSubHeadingListEnd
+
+%-----------PROJECTS-----------
+\section{Projects}
+    \resumeSubHeadingListStart
+      \resumeProjectHeading
+          {\textbf{UmbrellaAgent (Bachelor Thesis)} $|$ \emph{MERN Stack, Socket.IO, Hardware Printing}}{}
+          \resumeItemListStart
+            \resumeItem{Developed a local-first, WebSocket-driven Order Management System for high-density environments.}
+            \resumeItem{Engineered a custom ESC/POS thermal printing service over raw TCP with Greek encoding support.}
+            \resumeItem{Validated system resilience via Chaos Engineering achieving an RTO under 5s, and sustained over 1.58M requests in Apache JMeter stress tests.}
+          \resumeItemListEnd
+      \resumeProjectHeading
+          {\textbf{Arduino WSN ESPNow} $|$ \emph{C++, ESP32, ESP-Now Protocol}}{}
+          \resumeItemListStart
+            \resumeItem{Developed a low-latency Wireless Sensor Network (WSN) using ESP32 and ESP-NOW protocol for power-efficient data transmission.}
+            \resumeItem{Implemented embedded routines involving GPIO control, hardware interrupts, and state machine logic in C++.}
+          \resumeItemListEnd
+      \resumeProjectHeading
+          {\textbf{Social Network Platform} $|$ \emph{React, Node.js, Express, MongoDB}}{}
+          \resumeItemListStart
+            \resumeItem{Engineered a scalable full-stack social media application, utilizing React for a dynamic frontend and Node.js/Express for robust backend architecture.}
+            \resumeItem{Designed RESTful APIs for user interactions and managed persistent, NoSQL data storage with MongoDB, ensuring secure authentication and authorization.}
+          \resumeItemListEnd
+    \resumeSubHeadingListEnd
+
+%-----------TECHNICAL SKILLS-----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages}{: JavaScript, TypeScript, C/C++, Python, SQL, Lua, VHDL, PHP} $|$
+     \textbf{Databases}{: MongoDB, SQLite} \\
+     \textbf{Web Technologies}{: React.js, Node.js, Express.js, WebSockets, Tailwind CSS} \\
+     \textbf{Tools \& Platforms}{: Git, Docker, Linux, Roblox Studio, Arduino IDE, Wireshark, Packet Tracer}
+    }}
+ \end{itemize}
+
+%-----------CERTIFICATIONS-----------
+\section{Certifications}
+  \resumeSubHeadingListStart
+    \resumeSubItem{\textbf{Develop AI-generated Prototypes in Google AI Studio} -- Google Cloud Skills Boost (May 2026)}
+    \resumeSubItem{\textbf{NDG Linux Unhatched \& Intro to Cybersecurity} -- Cisco Networking Academy (2023)}
+    \resumeSubItem{\textbf{Proficiency (C2) in English} -- LRN (2022)}
+  \resumeSubHeadingListEnd
+
+%-------------------------------------------
+\end{document}
