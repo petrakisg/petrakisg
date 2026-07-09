@@ -45,7 +45,7 @@
 <h2 align="center">📊 GitHub Activity & Stats</h2>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=petrakisg&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=petrakisg&theme=tokyonight" />
   <br/><br/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=petrakisg&theme=tokyonight" />
 </div>
