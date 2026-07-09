@@ -45,8 +45,8 @@
 <h2 align="center">📊 GitHub Activity & Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=petrakisg&show_icons=true&theme=tokyonight&v=1" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=petrakisg&layout=compact&theme=tokyonight&v=1" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=petrakisg&show_icons=true&theme=tokyonight&v=2" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=petrakisg&layout=compact&theme=tokyonight&v=2" height="150" />
 </div>
 
 <br/>
