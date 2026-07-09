@@ -1,46 +1,57 @@
 <div align="center">
-  <h1>George Petrakis</h1>
-  <p>
-    <b>Software Engineer | Network & Cybersecurity | IoT</b>
-  </p>
-
-  <p>
-    <a href="https://www.linkedin.com/in/petrakisg/">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://www.instagram.com/_petrakisg_/">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram" />
-    </a>
-    <a href="mailto:petrakisgeorge@icloud.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hi+There!+I'm+George+Petrakis+;Full-Stack+Software+Engineer+;Network+Security+Enthusiast+;IoT+Developer+;IT+Educator+&color=38bdf8" alt="Typing SVG" />
 </div>
-
-<br/>
-
-## About
-
-I am a Software Engineer studying Informatics & Telecommunications at the University of Ioannina. My work focuses on building robust web applications, developing secure network architectures, and designing smart IoT ecosystems. I specialize in full-stack development and have a strong interest in advanced threat hunting and cloud infrastructure.
-
-## Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,js,ts,react,nodejs,express,mongodb,sqlite,arduino,git,vscode,docker,linux,postman&perline=8" alt="Tech Stack" />
+  <a href="https://www.linkedin.com/in/petrakisg/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/_petrakisg_/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:petrakisgeorge@icloud.com">
+    <img src="https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 <br/>
 
-## Analytics
+<table width="100%">
+  <tr>
+    <td width="55%" valign="top">
+      <h2>🚀 About Me</h2>
+      <p>
+        I bridge the gap between low-level hardware and high-level web applications. With a passion for zero-trust networks and smart IoT ecosystems, I love building secure, scalable solutions.
+      </p>
+      <ul>
+        <li>🎓 Informatics & Telecommunications @ <b>DIT UOI</b></li>
+        <li>💻 Crafting robust web dashboards and smart node architectures.</li>
+        <li>🌱 Currently learning <b>Advanced Threat Hunting & Cloud DevOps</b></li>
+        <li>⚡ <b>Fun fact:</b> I love breaking down complex IT concepts and teaching them!</li>
+      </ul>
+    </td>
+    <td width="45%" align="center" valign="top">
+      <h2>🛠️ Tech Arsenal</h2>
+      <!-- Unified modern skill icons -->
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=py,cpp,c,js,ts,react,nodejs,express,mongodb,sqlite,arduino,git,vscode,docker,linux,postman&perline=4" alt="My Skills" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h2 align="center">📊 GitHub Activity & Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=petrakisg&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&v=2" height="150" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=petrakisg&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&v=2" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=petrakisg&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&v=3" height="150" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=petrakisg&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&v=3" height="150" />
 </div>
 
 <br/>
 
-## Activity
+<h2 align="center">🐍 Contribution Grid</h2>
 
 <div align="center">
   <picture>
