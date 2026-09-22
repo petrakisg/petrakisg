@@ -45,6 +45,14 @@
 
 <br/>
 
+<h2 align="center">Building Efaeto</h2>
+
+<p align="center">
+  Local-first ordering and POS for hospitality venues.<br/>
+  Connecting the cashier, kitchen and tables over the venue&#39;s local WiFi.<br/>
+  <a href="https://efaeto.gr/"><strong>Explore Efaeto at efaeto.gr</strong></a>
+</p>
+
 <h2 align="center">📊 GitHub Activity & Stats</h2>
 
 <div align="center">
