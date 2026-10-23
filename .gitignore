@@ -2,6 +2,8 @@
 *
 !/.gitignore
 !/README.md
+!/cv.pdf
+!/cv-el.pdf
 !/.github/
 !/.github/workflows/
 !/.github/workflows/snake.yml

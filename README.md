@@ -12,6 +12,12 @@
   <a href="mailto:petrakisgeorge@icloud.com">
     <img src="https://img.shields.io/badge/Email-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://github.com/petrakisg/petrakisg/raw/refs/heads/main/cv.pdf">
+    <img src="https://img.shields.io/badge/CV-English-4B4B4B.svg?style=for-the-badge&logo=Read-The-Docs&logoColor=white" alt="Download English CV (PDF)" />
+  </a>
+  <a href="https://github.com/petrakisg/petrakisg/raw/refs/heads/main/cv-el.pdf">
+    <img src="https://img.shields.io/badge/CV-%CE%95%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CE%AC-4B4B4B.svg?style=for-the-badge&logo=Read-The-Docs&logoColor=white" alt="Λήψη ελληνικού βιογραφικού (PDF)" />
+  </a>
 </div>
 
 <br/>
