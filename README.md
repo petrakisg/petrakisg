@@ -27,13 +27,12 @@
     <td width="55%" valign="top">
       <h2>🚀 About Me</h2>
       <p>
-        I bridge the gap between low-level hardware and high-level web applications. With a passion for zero-trust networks and smart IoT ecosystems, I love building secure, scalable solutions.
+        I develop web applications with a focus on security and reliability. I created Efaeto, a local-first platform for hospitality. My research work involves digital identity and privacy-preserving access control.
       </p>
       <ul>
-        <li>🎓 Informatics & Telecommunications @ <b>DIT UOI</b></li>
-        <li>💻 Crafting robust web dashboards and smart node architectures.</li>
-        <li>🌱 Currently learning <b>Advanced Threat Hunting & Cloud DevOps</b></li>
-        <li>⚡ <b>Fun fact:</b> I love breaking down complex IT concepts and teaching them!</li>
+        <li>🎓 <b>BSc in Informatics and Telecommunications</b>, University of Ioannina.</li>
+        <li>🔐 <b>Security interests:</b> software, systems, networks and cloud infrastructure.</li>
+        <li>👨‍🏫 I enjoy teaching programming.</li>
       </ul>
     </td>
     <td width="45%" align="center" valign="top">
