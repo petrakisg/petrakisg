@@ -50,9 +50,16 @@
 <h2 align="center">Building Efaeto</h2>
 
 <p align="center">
-  Local-first ordering and POS for hospitality venues.<br/>
-  Connecting the cashier, kitchen and tables over the venue&#39;s local WiFi.<br/>
-  <a href="https://efaeto.gr/"><strong>Explore Efaeto at efaeto.gr</strong></a>
+  A local-first platform for managing orders, tables and inventory in hospitality venues.
+  Staff work over a local network, so core operations continue even when the internet goes down.
+</p>
+
+<p align="center">
+  I develop the application, its security controls and the supporting cloud services.
+</p>
+
+<p align="center">
+  <a href="https://efaeto.gr/"><strong>Explore Efaeto</strong></a>
 </p>
 
 <h2 align="center">📊 GitHub Activity & Stats</h2>
