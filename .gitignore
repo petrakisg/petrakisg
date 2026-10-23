@@ -1,0 +1,7 @@
+# Only files intended for the public GitHub profile are tracked.
+*
+!/.gitignore
+!/README.md
+!/.github/
+!/.github/workflows/
+!/.github/workflows/snake.yml
